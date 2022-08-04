@@ -42,3 +42,4 @@ for x in range(30):
 
 #print the pasword
 print("\nYour Generated password for " , application , " is >> " , password, "\n \nPlease keep this password Secret!")
+print("\nYour Generated password is ", password)
